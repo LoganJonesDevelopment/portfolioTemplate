@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color: #d6d6f5;
+    text-align: center;
+}
+#portfolioItem {
+    background-color:lightblue;
+   height: 300px;
+   text-align: center;
+}
+#whiteSpace {
+    height: 100px;
+}
+footer {
+    background-color: #d6d6f5;
+    height: 50px;
+    text-align: center;
+}
